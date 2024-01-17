@@ -4,7 +4,7 @@
 **gvang74/gvang74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### Hello All.
 - 🔭 I’m currently working on ... everything. Our first homework assignment, work, kids and life. 
 - 🌱 I’m currently learning on... how use github. 
 - 👯 I’m looking to collaborate with ... my group/team. I pray and hope I do weigh them down with me. lol.
